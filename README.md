@@ -33,7 +33,7 @@ AssetSafeo 致力于构建一个全球性的数字资产安全网络，连接家
 ## 🌍 Official Links / 官方链接
 - **Website / 官网:** [https://assetsafeo.com](https://assetsafeo.com)
 - **Telegram:** [https://t.me/AssetSafeoGlobal](https://t.me/AssetSafeoGlobal)
-- **Whitepaper / 白皮书:** [https://assetsafeo.com/whitepaper.pdf](https://assetsafeo.com/whitepaper.pdf)
+- **Whitepaper / 白皮书:** <a href="https://github.com/AssetSafeo/AssetSafeo/raw/main/ASFO_Whitepaper_2025_Final.pdf" target="_blank" rel="noopener">点击查看 ASFO 白皮书（2025 最终版）</a>
 - **Email / 邮箱:** asfo@assetsafeo.com
 
 ---
